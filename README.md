@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikAfz
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m a React.js developer
 - 📫 How to reach me: nikafz980@gmail.com
  
 <!---
